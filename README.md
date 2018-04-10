@@ -8,5 +8,5 @@ Switch to the cloned directory and run ```npm install``` to install required dep
 
 Run ```node app.js``` and visit ```localhost:3000``` to view the app.
 
-## Tutorial
+
 
